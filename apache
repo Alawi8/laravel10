@@ -1,0 +1,4 @@
+<VirtualHost *:80>
+    DocumentRoot "/path/to/your/laravel/project/public"
+    ServerName your-domain.com
+</VirtualHost>
